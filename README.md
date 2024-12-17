@@ -1,6 +1,8 @@
 # Module 11 - Lesson 3 - Component Lifecycle Events and Forms
 Author: Elizabeth Yates
 
+In this repository, I completed the following assignment.
+
 ## 1. Mastering React Functional Components and Axios with useEffect
 
 **Objective**: The objective of this assignment is to develop proficiency in using React functional components, managing side effects with the useEffect hook, and performing HTTP requests using Axios. This hands-on exercise will enhance your skills in building dynamic, data-driven React applications.
