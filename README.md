@@ -3,6 +3,8 @@ Author: Elizabeth Yates
 
 In this repository, I completed the following assignment.
 
+**Note**: I included my apiKey and hash in a secret file entitled 'ApiPasswords.js' in the components folder and added it to the .gitignore file. 
+
 ## 1. Mastering React Functional Components and Axios with useEffect
 
 **Objective**: The objective of this assignment is to develop proficiency in using React functional components, managing side effects with the useEffect hook, and performing HTTP requests using Axios. This hands-on exercise will enhance your skills in building dynamic, data-driven React applications.
